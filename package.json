@@ -1,0 +1,12 @@
+{
+  "name": "store-picker",
+  "version": "0.0.0",
+  "description": "pick a store! [shows React/gulp/browserify etc. are working]",
+  "main": "index.js",
+  "git": "git:https://github.com/bgilroy26/store-picker.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Gilroy <bdgilroy@gmail.com>",
+  "license": "ISC"
+}
